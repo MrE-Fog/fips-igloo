@@ -1,0 +1,9 @@
+#
+# fips-igloo
+#
+---
+exports:
+    header-dirs:
+        - igloo/igloo
+    modules :
+        igloo: igloo
