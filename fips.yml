@@ -3,7 +3,4 @@
 #
 ---
 exports:
-    header-dirs:
-        - igloo/igloo
-    modules :
-        igloo: igloo
+    header-dirs: [ include ]
